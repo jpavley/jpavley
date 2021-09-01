@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpavley
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning HTML5 Canvas
 - 💞️ I’m looking to collaborate on nothing yet (not enough time)
 - 📫 How to reach me jpavley@gmail.com
 
