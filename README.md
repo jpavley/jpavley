@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpavley
 - 👀 I’m interested in iOS Development
 - 🌱 I’m almost always workoing on a new app!
-- 💞️ Check out my lastest app (Bit Quiz 16)[https://apps.apple.com/us/app/bit-quiz-16/id1670026590]
+- 💞️ Check out my lastest app [Bit Quiz 16](https://apps.apple.com/us/app/bit-quiz-16/id1670026590)
 - 📫 How to reach me jpavley@gmail.com
 
 <!---
